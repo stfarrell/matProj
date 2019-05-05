@@ -1,0 +1,19 @@
+.firatxt {
+    font-family: 'Fira Sans', sans-serif;
+
+}
+
+p {
+    font-size: 2vw;
+    font-style: italic;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+.bucket {
+  position: relative;
+  text-align: center;
+  color: white;
+}
